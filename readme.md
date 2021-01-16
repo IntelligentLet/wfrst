@@ -22,6 +22,6 @@ To install, run
 
 `cp .zshrc /home/$USER/`
 
-!(pic1)[https://raw.githubusercontent.com/IntelligentLet/wfrst/master/screenshot_20201230_131800.png]
+![pic1](https://raw.githubusercontent.com/IntelligentLet/wfrst/master/screenshot_20201230_131800.png)
 
-!(pic2)[https://raw.githubusercontent.com/IntelligentLet/wfrst/master/screenshot_20210103_155708.png]
+![pic2](https://raw.githubusercontent.com/IntelligentLet/wfrst/master/screenshot_20210103_155708.png)
